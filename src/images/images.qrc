@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>001.png</file>
+        <file>add_24px.svg</file>
+        <file>delete_24px.svg</file>
+        <file>mode_24px.svg</file>
+        <file>info_outline_24px.svg</file>
+    </qresource>
+</RCC>
